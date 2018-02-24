@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "513125236338",
+    "firebase_url": "https://clarifai-android-starter-maste.firebaseio.com",
+    "project_id": "clarifai-android-starter-maste",
+    "storage_bucket": "clarifai-android-starter-maste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513125236338:android:d5ec02686d3eff5c",
+        "android_client_info": {
+          "package_name": "com.clarifai.android.starter.api.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513125236338-7v1ath1a2bscogto418p12ftd368j4ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clarifai.android.starter.api.v2",
+            "certificate_hash": "69d3b68eada0a4f30d68e469323808d428f2eb97"
+          }
+        },
+        {
+          "client_id": "513125236338-jf0qnp5bj9iblet891np0tlob24v4bgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbetTP0AJNs4Z8JDrTyZYFuxC108Q91k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513125236338-jf0qnp5bj9iblet891np0tlob24v4bgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

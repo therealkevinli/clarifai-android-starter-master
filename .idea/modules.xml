@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Kevin\Documents\CompSci\CS125\SampleCodeForApis\clarifai-android-starter-master\clarifai-android-starter.iml" filepath="C:\Users\Kevin\Documents\CompSci\CS125\SampleCodeForApis\clarifai-android-starter-master\clarifai-android-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clarifai-android-starter-master.iml" filepath="$PROJECT_DIR$/clarifai-android-starter-master.iml" />
+    </modules>
+  </component>
+</project>
